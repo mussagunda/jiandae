@@ -5,11 +5,11 @@
 
 **TABLE OF CONTENT** :
 
-  1. DESCRIPTION
-  2. LANGUAGE
-  3. LICENCE
-  4. CONTACT
-  5. FEATURES
+  - DESCRIPTION
+  - LANGUAGE
+  - LICENCE
+  - CONTACT
+  - FEATURES
 
 1. **DESCRIPTION**
    ===========
@@ -93,5 +93,7 @@ An assessor will start with a (1) counting things (2) then understanding numbers
 
 
 =========================================================================
+
                 Tanzania, Tanga, Manundu-Korogwe - January 03 2022
+		
 ================================== END ===================================
